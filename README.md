@@ -1,6 +1,10 @@
 # Quick Animate
 Make your animation quickly by using your favorite drawing software.
 
+<h1>Requirements</h1>
+Python3++
+opencv-python 4.2.0.32
+
 <h1>How to use</h1>
 <h2>1 - Installing</h2>
 <ol>
