@@ -1,4 +1,4 @@
-# Quick-Animate
+# Quick Animate
 Make your animation quickly by using your favorite drawing software.
 
 <h1>How to use</h1>
